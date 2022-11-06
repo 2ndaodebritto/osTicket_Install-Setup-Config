@@ -2,24 +2,27 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Installation, Setup, and Configuration within an Azure VM</h1>
+<h1>(IN PROGRESS) osTicket - Installation, Setup, and Configuration within an Azure Virtual Machine</h1>
 This tutorial outlines the installation, setup, and configuration of the open-source help desk ticketing system, osTicket, within an Azure Virtual Machine. <b>At the end, we will know how to:</b><br/><ol></p>
 
 <li>Create a Resource Group in Azure</li>
 <li>Create a Virtual Machine in Azure</li>
 <li>Create a Virtual Network (Vnet)</li>
 <li>Connect to your Virtual Machine with Remote Desktop</li>
-<li>Install / Enable IIS in Windows</li>
+<li>Install and Enable IIS in Windows</li>
 <li>Install Web Platform Installer</li>
 <li>Install osTicket v1.15.8</li>
-<li>Reload IIS</li>
-<li>Enable Extensions in IIS</li>
+<li><li>Enable Extensions in IIS</li>
+<li>Assign Permissions</li>
+<li>Download and Install HeidiSQL</li>
+
 
 
 </ol>
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machine)
+- osTicket
 - Remote Desktop
 - Internet Information Services (IIS)
 - Windows 10 Operating System</b> (21H2)
